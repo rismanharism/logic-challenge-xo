@@ -22,4 +22,4 @@ var kata = 'oxooxox'
 
 maka output adalah false
 Variable kata tidak boleh diganti dengan variabel lain dan penggunaannya sesuai dengan Directions yang disebutkan di bawah.
-Note: Apabila tidak ada o maupun x di dalam input, maka aplikasi akan mengembalikan nilai false
+Note: Apabila tidak ada o maupun x di dalam input, maka aplikasi akan mengembalikan nilai false# logic-challenge-xo
